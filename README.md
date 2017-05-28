@@ -1,6 +1,7 @@
 # DATA
 contains labels for data to be used with machine learning
+. To run my conversion file, simply run
 
-Datasets:
+`python package_dataset2.py`
 
-* Download the Underwater Dataset [here](https://drive.google.com/open?id=0B_fefIm3LDfjTnh6SHpiR2VyV28)
+Datasets:https://github.com/udacity/self-driving-car/tree/master/annotations
